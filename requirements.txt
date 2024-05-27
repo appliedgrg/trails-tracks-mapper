@@ -1,0 +1,16 @@
+tensorflow
+matplotlib
+tifffile
+numpy
+pillow
+fiona
+datetime
+tensorflow-addons
+rasterio
+pandas
+opencv-python
+geopandas
+keras
+tqdm
+keras-unet
+
